@@ -1,2 +1,2 @@
 # stats507
-stats507-coursework
+This is for stats507 coursework
